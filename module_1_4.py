@@ -5,5 +5,3 @@ print(len(my_string),
       ''.join(my_string.split()),
       my_string[0], my_string[-1],
       sep='\n')
-
-
